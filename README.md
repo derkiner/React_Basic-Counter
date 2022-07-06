@@ -1,8 +1,9 @@
-React Project => Basic Counter with CSS styling
+## React Project => Basic Counter with CSS styling
 
 # The article I wrote on its creation process : 
 https://medium.com/codex/shall-we-create-a-basic-project-from-scratch-via-react-a49a65ac1767
 
+...
 
 
 
